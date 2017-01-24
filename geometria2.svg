@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style>
+
+rect{width:7px;height:20px;x:46.5;rx:5;y:40;ry:5;fill:#407a23;}
+
+</style>
+<rect style="transform:translate(0,-30px)"></rect>
+<rect style="transform:rotate(30deg);transform-origin:105.9px 65px;"></rect>
+<rect style="transform:rotate(60deg);transform-origin:75.9px 65px;"></rect>  
+<rect style="transform:rotate(90deg);transform-origin:65px 65px;"></rect>  
+<rect style="transform:rotate(120deg);transform-origin:58.6px 65px;"></rect>  
+<rect style="transform:rotate(150deg);transform-origin:54px 65px;"></rect>  
+<rect style="transform:rotate(180deg);transform-origin:50px 65px;"></rect>  
+<rect style="transform:rotate(-150deg);transform-origin:45.9px 65px;"></rect>  
+<rect style="transform:rotate(-120deg);transform-origin:41.3px 65px;"></rect>  
+<rect style="transform:rotate(-90deg);transform-origin:35px 65px;"></rect>  
+<rect style="transform:rotate(-60deg);transform-origin:24px 65px;"></rect>  
+<rect style="transform:rotate(-30deg);transform-origin:-5.9px 65px;"></rect>  
+</svg>
