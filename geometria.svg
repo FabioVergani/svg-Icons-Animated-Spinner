@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style>
+rect{width:7px; height:20px; x:46.5; rx:5; y:40; ry:5; fill:#407a23;}
+
+</style>
+<rect style="transform:translate(0,-30px)"></rect>
+<rect transform="rotate(30 105.98 65)"></rect>
+<rect transform="rotate(60 75.98 65)"></rect>
+<rect transform="rotate(90 65 65)"></rect>
+<rect transform="rotate(120 58.66 65)"></rect>
+<rect transform="rotate(150 54.02 65)"></rect>
+<rect transform="rotate(180 50 65)"></rect>
+<rect transform="rotate(-150 45.98 65)"></rect>
+<rect transform="rotate(-120 41.34 65)"></rect>
+<rect transform="rotate(-90 35 65)"></rect>
+<rect transform="rotate(-60 24.02 65)"></rect>
+<rect transform="rotate(-30 -5.98 65)"></rect>
+</svg>
